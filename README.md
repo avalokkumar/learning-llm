@@ -4,10 +4,6 @@ This repository contains a structured, hands-on curriculum for learning Large La
 
 ---
 
-## Completed Work
-
-The following sections have been completed and the corresponding notebooks are available in the repository.
-
 ### Week 1: Foundations
 
 - **Topics Covered**: Text Normalization, Tokenization (BPE/WordPiece), Embeddings, and Positional Encodings.
@@ -25,10 +21,6 @@ The following sections have been completed and the corresponding notebooks are a
 - **Topics Covered**: Language modeling datasets, perplexity, large-scale tokenization, sequence packing, and building a complete training loop with regularization (Dropout, Weight Decay), monitoring, and early stopping.
 - **Outcome**: Developed a robust pipeline for pretraining a GPT-style model and implemented a capstone project inspired by `nanoGPT`.
 - **Code**: See the `week3` directory for a full pretraining implementation.
-
----
-
-The curriculum will continue with the following intermediate and advanced topics as outlined in the learning plan.
 
 ### Week 4: Instruction Tuning & Alignment
 
