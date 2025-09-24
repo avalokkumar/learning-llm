@@ -4,6 +4,10 @@ This repository contains a structured, hands-on curriculum for learning Large La
 
 ---
 
+### Visual guide reference - https://bbycroft.net/llm
+
+---
+
 ### Week 1: Foundations
 
 - **Topics Covered**: Text Normalization, Tokenization (BPE/WordPiece), Embeddings, and Positional Encodings.
